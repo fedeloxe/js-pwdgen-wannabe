@@ -11,7 +11,7 @@ let color_user = prompt ('inserisci il tuo colore preferito')
 
 //valore 21 
 
-let pass_21 = 21
+const pass_21 = 21
 
 //sommo i valori e recupero la destinazione 
 
